@@ -1,0 +1,10 @@
+com\collabpad\backend\dto\LoginRequest.class
+com\collabpad\backend\repository\UserRepository.class
+com\collabpad\backend\controller\GlobalExceptionHandler.class
+com\collabpad\backend\dto\MessageResponse.class
+com\collabpad\backend\dto\SignUpRequest.class
+com\collabpad\backend\dto\AuthResponse.class
+com\collabpad\backend\BackendApplication.class
+com\collabpad\backend\controller\AuthController.class
+com\collabpad\backend\model\User.class
+com\collabpad\backend\config\SecurityConfig.class

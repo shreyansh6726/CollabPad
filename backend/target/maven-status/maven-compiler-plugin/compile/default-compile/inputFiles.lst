@@ -1,0 +1,10 @@
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\BackendApplication.java
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\config\SecurityConfig.java
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\controller\AuthController.java
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\controller\GlobalExceptionHandler.java
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\dto\AuthResponse.java
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\dto\LoginRequest.java
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\dto\MessageResponse.java
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\dto\SignUpRequest.java
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\model\User.java
+C:\Users\shrey\Desktop\CollabPad\backend\src\main\java\com\collabpad\backend\repository\UserRepository.java
